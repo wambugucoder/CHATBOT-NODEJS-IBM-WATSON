@@ -6,7 +6,11 @@ Here is the link to my covid-19 CHATBOT:
 
 ## PREVIEW
 
-![](https://github.com/wambugucoder/CHATBOT-NODEJS-IBM-WATSON/tree/master/screenshots/preview.PNG)
+
+<p align="center">
+<img src="https://github.com/wambugucoder/CHATBOT-NODEJS-IBM-WATSON/tree/master/screenshots/preview.PNG">
+</p>
+
 
 
 # STEPS TO CREATE A CHATBOT WITH WATSON AI AND NODE JS
@@ -72,9 +76,16 @@ app.get('/sessionId', (req, res) => {
 REMEMBER TO STORE YOUR SESSION_ID IN .env
 
 
-![](https://github.com/wambugucoder/CHATBOT-NODEJS-IBM-WATSON/tree/master/screenshots/sessionId.PNG)
+<p align="center">
+<img src="https://github.com/wambugucoder/CHATBOT-NODEJS-IBM-WATSON/tree/master/screenshots//sessionId.PNG">
+</p>
 
-![](https://github.com/wambugucoder/CHATBOT-NODEJS-IBM-WATSON/tree/master/screenshots/result.PNG)
+
+<p align="center">
+<img src="https://github.com/wambugucoder/CHATBOT-NODEJS-IBM-WATSON/tree/master/screenshots//result.PNG">
+</p>
+
+
 
 
 ***6. Send input to your AI***
@@ -98,10 +109,14 @@ app.post('/ask', (req, res) => {
         });
 });
 ```
-![](https://github.com/wambugucoder/CHATBOT-NODEJS-IBM-WATSON/tree/master/screenshots/ask.PNG)
+<p align="center">
+<img src="https://github.com/wambugucoder/CHATBOT-NODEJS-IBM-WATSON/tree/master/screenshots//ask.PNG">
+</p>
 
-![](https://github.com/wambugucoder/CHATBOT-NODEJS-IBM-WATSON/tree/master/screenshots/answer.PNG)
 
+<p align="center">
+<img src="https://github.com/wambugucoder/CHATBOT-NODEJS-IBM-WATSON/tree/master/screenshots//answer.PNG">
+</p>
 
 
 - Finally you can train your AI by sending various post requests so as to be familiar with certain questions.
