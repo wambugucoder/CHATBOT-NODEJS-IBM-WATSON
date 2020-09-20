@@ -8,7 +8,7 @@ Here is the link to my covid-19 CHATBOT:
 
 ![Screenshot](https://github.com/wambugucoder/CHATBOT-NODEJS-IBM-WATSON/tree/master/screenshots/preview.PNG)
 <p align="center">
-<img src="https://github.com/wambugucoder/CHATBOT-NODEJS-IBM-WATSON/tree/master/screenshots/preview.PNG">
+<img src="https://github.com/wambugucoder/CHATBOT-NODEJS-IBM-WATSON/tree/master/screenshots/preview.PNG"></img>
 </p>
 
 
