@@ -105,6 +105,6 @@ app.post('/ask', (req, res) => {
 
 
 - Finally you can train your AI by sending various post requests so as to be familiar with certains questions.
-- Then deploy it and share it with your friends.
+- Then deploy it and share it with your friend.
 
 
