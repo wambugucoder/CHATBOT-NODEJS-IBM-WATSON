@@ -6,7 +6,7 @@ Here is the link to my covid-19 CHATBOT:
 
 ## PREVIEW
 
-![](screenshots/preview.png)
+![](https://github.com/wambugucoder/CHATBOT-NODEJS-IBM-WATSON/tree/master/screenshots/preview.png)
 
 
 # STEPS TO CREATE A CHATBOT WITH WATSON AI AND NODE JS
@@ -72,9 +72,9 @@ app.get('/sessionId', (req, res) => {
 REMEMBER TO STORE YOUR SESSION_ID IN .env
 
 
-![](screenshots/sessionId.png)
+![](https://github.com/wambugucoder/CHATBOT-NODEJS-IBM-WATSON/tree/master/screenshots/sessionId.png)
 
-![](screenshots/result.png)
+![](https://github.com/wambugucoder/CHATBOT-NODEJS-IBM-WATSON/tree/master/screenshots/result.png)
 
 
 ***6. Send input to your AI***
@@ -98,9 +98,9 @@ app.post('/ask', (req, res) => {
         });
 });
 ```
-![](screenshots/ask.png)
+![](https://github.com/wambugucoder/CHATBOT-NODEJS-IBM-WATSON/tree/master/screenshots/ask.png)
 
-![](screenshots/answer.png)
+![](https://github.com/wambugucoder/CHATBOT-NODEJS-IBM-WATSON/tree/master/screenshots/answer.png)
 
 
 
