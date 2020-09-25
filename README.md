@@ -1,5 +1,7 @@
 # WATSON AI CHATBOT BUILT WITH NODE-JS
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fee526ad906b429aa0cb66b1371e5803)](https://app.codacy.com/manual/josphatwambugu77/CHATBOT-NODEJS-IBM-WATSON?utm_source=github.com&utm_medium=referral&utm_content=wambugucoder/CHATBOT-NODEJS-IBM-WATSON&utm_campaign=Badge_Grade_Settings)
+
 Here is the link to my covid-19 CHATBOT:
 
 [Covid-19 Chatbot](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=32f97eff-79cd-4068-b298-12af6e473664&serviceInstanceID=9c8c1dfb-49b0-41cf-b5c4-bc2bbd9d2614)
