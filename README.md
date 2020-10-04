@@ -1,4 +1,4 @@
-# WATSON AI CHATBOT BUILT WITH NODE-JS
+# WATSON AI CHATBOT BUILT WITH NODE-JS.
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/fee526ad906b429aa0cb66b1371e5803)](https://app.codacy.com/manual/josphatwambugu77/CHATBOT-NODEJS-IBM-WATSON?utm_source=github.com&utm_medium=referral&utm_content=wambugucoder/CHATBOT-NODEJS-IBM-WATSON&utm_campaign=Badge_Grade_Settings)
 
